@@ -1,5 +1,4 @@
 # Sentiment_dictionaries_R
-# Sentiment_dictionaries_R
 
 This project performs sentiment analysis on pre-processed, tokenized text data using R. It employs several libraries to handle text processing, sentiment scoring, and data manipulation. The analysis uses the General Inquirer (GI) dictionary provided by the SentimentAnalysis package.
 
@@ -11,7 +10,7 @@ This project performs sentiment analysis on pre-processed, tokenized text data u
 
 - `quanteda`
 - `SentimentAnalysis`
-- `tidyverse` (includes dplyr, tidyr, readr)
+- `tidyverse` (includes `dplyr`, `tidyr`, `readr`)
 - `janitor` (for cleaning column names)
 - `MASS` (for statistical modelling)
 
