@@ -1,0 +1,1 @@
+# Sentiment_dictionaries_R
